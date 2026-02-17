@@ -2,7 +2,7 @@
 
 ## 📌 Sobre
 
-O **ProjetoLaravel** é uma aplicação web desenvolvida com o framework **Laravel (PHP)**, estruturada seguindo o padrão MVC (*Model-View-Controller*) para organizar lógica de negócio, rotas e visualizações. Laravel é um framework PHP moderno e robusto amplamente usado para construir aplicações web escaláveis e bem organizadas. :contentReference[oaicite:2]{index=2}
+O **ProjetoLaravel** é uma aplicação web desenvolvida com o framework **Laravel (PHP)**, estruturada seguindo o padrão MVC (*Model-View-Controller*) para organizar lógica de negócio, rotas e visualizações. Laravel é um framework PHP moderno e robusto amplamente usado para construir aplicações web escaláveis e bem organizadas.
 
 Este projeto foi criado como parte de atividades acadêmicas e de aprendizado, aplicando os principais conceitos do framework e boas práticas de desenvolvimento em PHP.
 
